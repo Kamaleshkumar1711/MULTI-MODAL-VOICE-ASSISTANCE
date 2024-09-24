@@ -13,27 +13,27 @@
     <th>Phone</th>
   </tr>
    <tr>
+    <td>Kamalesh.K</td>
+    <td>kamalesh.k2023vitstudent.ac.in</td>
+    <td>MSc Data Science, 1styear</td>
+    <td>80153 29920</td>
+  <tr>
     <td>Hariharan.R.B</td>
     <td>hariharan.2023vitstudent.ac.in</td>
     <td>MSc Data Science, 1styear</td>
     <td>91595 64077</td>
-  <tr>
+  </tr>
+     <tr>
     <td>Mahalakshmi.A</td>
     <td>mahalakshmi.arasu2023@vitstudent.ac.in</td>
     <td>MSc Data Science, 1styear</td>
     <td>82484 80167</td>
   </tr>
-     <tr>
-    <td>Sri krishna.V</td>
+  <tr>
+   <td>Sri krishna.V</td>
     <td>sri.krishna2023@vitstudent.ac.in</td>
     <td>MSc Data Science, 1styear</td>
     <td>91766 25759</td>
-  </tr>
-  <tr>
-    <td>Kamalesh.K</td>
-    <td>kamalesh.k2023vitstudent.ac.in</td>
-    <td>MSc Data Science, 1styear</td>
-    <td>80153 29920</td>
   </tr>
 </table>
 
